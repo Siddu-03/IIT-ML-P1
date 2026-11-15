@@ -26,4 +26,4 @@ This project focuses on identifying unusual execution patterns through the analy
 To explore hardware performance counter analysis as a method for identifying potential backdoor activity in program execution.
 
 ---
-**Developed as part of an HPC Backdoor Detection Hackathon project.**
+**Developed as part of IITK ML Hackathon.**
